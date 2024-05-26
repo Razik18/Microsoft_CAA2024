@@ -1,8 +1,8 @@
 # Weather Forecasting System
 
 ## Project Members
-- Abderazzak Saïb
-- Nabil Ajiach
+- Abderazzak Saïb: M5 and Backend
+- Nabil Ajiach: Frontend
 
 ## Overview
 This project is a comprehensive weather forecasting system that integrates various technologies to provide real-time weather information, indoor and outdoor environmental data, and detailed weather reports. The system includes three main components: a backend server, an M5Stack-based IoT device, and a frontend web application built with Streamlit.
