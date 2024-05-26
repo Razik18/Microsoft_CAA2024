@@ -1,0 +1,6 @@
+flask
+google-cloud-bigquery
+pytz
+requests
+openai==0.28
+google-cloud-texttospeech

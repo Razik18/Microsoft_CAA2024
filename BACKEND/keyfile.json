@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "api-calendrier-408216",
+  "private_key_id": "d06d53ded2bb8678d3c389d86e4237c84374281e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDACWAse6bU1dod\nV+++g7BVfhGOfjzwhRI6m6Us5dIe0jVPLa5HTfSRkuw30BGky0EaVv4d8CxDPKpg\nmomtNubzfDdTTtf0K9+YeofVsg+nOqcTankiwbvUBVmFpDb2vn/aSOhH5YUW/ltM\nWZoK9g4856HpxQJf8V1faJ5WcBAwiTciFb4h0L43Lb/oE43cel2CRe29jhHHKr2f\n64rbavSEfhBxnLwyHIG7r+U3gE/Wcw+/D7Nu1/RnZsnzDYli6i6DtS/CaVVZoBl/\npKJx086HBrsYrt6Z0cmwxBamR/v+Fg9aOjIz/LjNDPcMlxvElndb/rnrfvp6G4iT\ndoM6Db+zAgMBAAECggEALln0+zerWIL3nw6LIP5zMOd5gF3LArjz4e6Qi0o7kdHm\nKSLbBn3z8rE2T/BqWc7ve1aVBo/idyYs751NbuAqFYodZn/I0zhFw22L3NIaQiB/\nlEmmTHPbjLzv0ziERcFMZdkkK7pkCd1CFycnbc7fN+cm5yB0xsig43cChNWOqtAA\nC+MoplmEFpw2QFZiBahUPte9YcNXInAe+5/IDDweS0F4vN2GzvrTy/PYeiO5EgkU\nE9GbRoAmkS/bLEvi2tP5Az4+c7FSu2tYI+pTLe70GS97770/Pn1CjGTUew6j7GMD\nO4+yD4DUIvQry6eiIRYMVLSvNBVJwPQ56+Sf3QzcDQKBgQD6M5rj2H+ANrPUfO5L\nkI7vqBs8jaOkj0m2035suthpzjDubfU78sizg9uf/+quF0YGnkP9cPWSwPi/+Ab1\nPpDLdGRQU1b0oeh4ezSJRUjQYL8/aAVhu7DRPekxtsxlBmlfX8vNmviOfPVsSvDN\nQKbBoar/juKTOnQKwzoxSAb09QKBgQDEfLCW9Fe/vlyITzoIalKqbsPAuS5oTVOC\nsB/99kxYV76SYSikpObDoSZOXHB6oHs5jRGrxzWScj0w7IQi9WlWpL4sbaSngkDr\n4vA9CFqzUHwT7OkbDvJN9dCH3ZLcrYW9XGIuM5RRewvaesZYeQq84HrHyjCr/hpd\nUqyvyHi5BwKBgQCVORgFEkehAX8pmUVKfjIxz3JHIDbcW7VcPDFnydxu5lIasiwU\nEA4Ruu/PMoQWRr02D0h/rNJaL4tsexIzTJhxL77whXQUPUh4Kws/X7o4xarqtzCW\nhKnFcgZV5y9qhXNtNaZIv0fFO9PoPZ323LtYOwLQnriVlMRG8v8PC2VSzQKBgHkV\nqjFspILKSfXKdSXod8cF+WZT+DBYrsUTyrNTzBqJACzu6QAFixw1vAiAWOSI70c5\nExG78tyrv9/dcVSlzeOSJIv2iYic8WsscAX8lwB38e7JiaGeJV47xOVle3K5EHjw\nbKSyLo3D+TsLfB3bge2BnMhwZmwnbJHkN/0f2p2TAoGAHlJn2vLM0ywiSxcL1vaJ\n1f+HiE8dmshOLVCJyt+8yGxVc8g+QmE3O/gW5ULPFWHsgEEhpqbE9Z7X0zONlwhV\neeXHK8XqsdrO1KunHW9CQhoySAoRViVn2KXubAUaSUOdNql9ZOBxZSs0xYmKm7p7\n5NgVXc3FLhwKIzcbz5Dok0w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "foufa-209@api-calendrier-408216.iam.gserviceaccount.com",
+  "client_id": "109749664892806484419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foufa-209%40api-calendrier-408216.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
