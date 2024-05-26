@@ -62,16 +62,16 @@ To deploy this system, follow these steps:
 2. Set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable to point to your key file:
 
 ### Update API Keys
-1. Open `app.py` and update the placeholders with your actual API keys for OpenAI, OpenWeather, and Google Cloud.
+Open `app.py` and update the placeholders with your actual API keys for OpenAI, OpenWeather, and Google Cloud.
 
 ### Install Dependencies
-1. Create a virtual environment and install the required packages.
+Create a virtual environment and install the required packages.
 
 ### Run the Flask Server
-1. Start the Flask server to handle backend operations.
+Start the Flask server to handle backend operations.
 
 ### Run the Streamlit App
-1. Launch the Streamlit application to access the frontend interface.
+Launch the Streamlit application to access the frontend interface.
 
 ## Conclusion
 This weather forecasting system leverages IoT, machine learning, and cloud technologies to provide comprehensive weather information and environmental data. By following the deployment instructions and ensuring the necessary API keys are in place, you can set up and run this system to monitor and analyze weather data effectively.
