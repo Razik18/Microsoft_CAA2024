@@ -77,4 +77,4 @@ Launch the Streamlit application to access the frontend interface.
 This weather forecasting system leverages IoT, machine learning, and cloud technologies to provide comprehensive weather information and environmental data. By following the deployment instructions and ensuring the necessary API keys are in place, you can set up and run this system to monitor and analyze weather data effectively.
 
 ### Watch Our Demo Video
-Watch the demo video here: [YouTube Video](www.youtube.com)
+Watch the demo video here: [YouTube Video](https://youtu.be/4otT4Gh_E6I)
