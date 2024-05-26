@@ -1,7 +1,7 @@
 # Weather Forecasting System
 
 ## Project Members
-- Abderazzak SaÏb
+- Abderazzak Saïb
 - Nabil Ajiach
 
 ## Overview
