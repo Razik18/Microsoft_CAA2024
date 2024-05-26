@@ -14,10 +14,10 @@ credential_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "key
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credential_path
 client = bigquery.Client(location="EU")
 
-OPENWEATHER_API_KEY = 'e183192c5f47def67e159019ff5ecf91'
+OPENWEATHER_API_KEY = ''
 CITY_NAME = 'Lausanne'
-OPENAI_API_KEY = 'sk-proj-XJCx55723o9JtbEzA8mzT3BlbkFJfDDHK7rJGDTC97wJfONG'
-GOOGLE_CLOUD_TTS_KEY_PATH = 'C:/Users/Razik/Downloads/keyfile.json'
+OPENAI_API_KEY = ''
+
 
 # Initialize OpenAI
 openai.api_key = OPENAI_API_KEY
